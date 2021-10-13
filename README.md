@@ -1,1 +1,1 @@
-Moved to https://github/searis/rested
+Fork moved to https://github.com/searis/rested

@@ -1,4 +1,4 @@
-module github.com/searis/rest-layer
+module github.com/searis/rested
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

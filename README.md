@@ -1,1 +1,1 @@
-Fork moved to https://github.com/searis/rested
+Fork moved to https://github.com/clarify/rested
